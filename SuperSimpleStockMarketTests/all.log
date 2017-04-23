@@ -1,0 +1,3 @@
+2017-04-23 13:47:19.325 [main] DEBUG StockMarket.Trades.TradeService - Fifteen Minuite Volume Weighted Stock Price cannot be calculated, Quantity cannot be Zero
+2017-04-23 13:47:19.335 [main] DEBUG StockMarket.Stocks.Stock - P/E Ratio cannot be calculated, Last Dividend cannot be Zero
+2017-04-23 13:47:19.336 [main] DEBUG StockMarket.Stocks.Stock - Dividend Yield cannot be calculated, Ticker Price cannot be Zero

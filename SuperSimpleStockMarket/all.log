@@ -1,0 +1,12 @@
+2017-04-23 13:39:39.694 [main] DEBUG Assignment - Start Program
+2017-04-23 13:39:39.698 [main] DEBUG Assignment - Load stock service
+2017-04-23 13:39:39.701 [main] DEBUG Assignment - Load trade service
+2017-04-23 13:39:39.702 [main] DEBUG Assignment - Calculate TEA Stock Dividend Yield
+2017-04-23 13:39:39.703 [main] DEBUG Assignment - TEA Stock P/E Ratio. 0.0
+2017-04-23 13:39:39.703 [main] DEBUG Assignment - Calculate POP Stock P/E Ratio
+2017-04-23 13:39:39.703 [main] DEBUG Assignment - POP Stock P/E Ratio = 2.5
+2017-04-23 13:39:39.703 [main] DEBUG Assignment - Record Sample Trades
+2017-04-23 13:39:39.705 [main] DEBUG Assignment - Calculate ALE Stock FMVWSP
+2017-04-23 13:39:39.787 [main] DEBUG Assignment - ALE Stock FMVWSP = 14.833333333333334
+2017-04-23 13:39:39.787 [main] DEBUG Assignment - Calculate GBCE All Share Index
+2017-04-23 13:39:39.790 [main] DEBUG Assignment - GBCE All Share Index = 4.613486533006922
